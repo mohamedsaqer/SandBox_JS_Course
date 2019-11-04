@@ -15,3 +15,6 @@ JS Topics:-
   - Fetch API
   - Arrow Functions
   - Async & Await
+  - Read from Text File
+  - Read from JSON File
+  - Read from API 
