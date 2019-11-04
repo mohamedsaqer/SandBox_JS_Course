@@ -1,6 +1,14 @@
-{
-    "id": 1,
-    "name": "John Doe",
-    "company": "123 ",
-    "phone": "012635416",
-}
+[
+    {
+        "title": "POst One",
+        "body": "This is Post One"
+    },
+    {
+        "title": "POst Two",
+        "body": "This is Post Two"
+    },
+    {
+        "title": "POst Three",
+        "body": "This is Post Three"
+    }
+]
